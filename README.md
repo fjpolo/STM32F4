@@ -3,4 +3,4 @@ STM32F407 Tests
 
 Testing Git, GitHub and Atom IDE together.
 
-Testing Franco.Polo@II-VI.com
+Testing Franco.Polo
