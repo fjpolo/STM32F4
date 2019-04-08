@@ -7,6 +7,4 @@ Testing Franco.Polo
 
 master branch: adding some stuff.
 
-This is under readme-modify
-
-Adding line 10 to test!
+Adding stuff on readme-modify
