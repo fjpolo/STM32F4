@@ -13,7 +13,7 @@
 	*
   ******************************************************************************
   */
- 
+
 #ifndef __DELAY_H
 #define __DELAY_H
 
@@ -25,9 +25,12 @@
 
 /**/
 #define DELAY_OK	0
- 
+
 /* delay__ms */
 uint8_t delay__ms(uint32_t value_ms);
 
- 
+/* delay__s*/
+uint8_t delay_s(uint32_t value_s);
+
+
 #endif	//DELAY_H
